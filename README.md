@@ -1,4 +1,4 @@
-## Quem sabe um dia full stack, ou não 🤷‍♂️
+## "Deixa a vida me levar, vida leva eu..."
 <div align="center">
   <a href="https://github.com/osgabrielluiz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=osgabrielluiz&show_icons=true&theme=apprentice&include_all_commits=true&count_private=true"/>
