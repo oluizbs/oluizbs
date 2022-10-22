@@ -1,4 +1,4 @@
-## "Cidades são bares lotados de sonhos e bebados apaixonados..."
+## "Opa, bom? Eu sou o Luiz "
 <div align="center">
   <a href="https://github.com/osgabrielluiz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=osgabrielluiz&show_icons=true&theme=apprentice&include_all_commits=true&count_private=true"/>
