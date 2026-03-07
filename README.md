@@ -20,9 +20,9 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=oluizbs&show_icons=true&theme=shadow_red&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=oluizbs&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oluizbs&layout=compact&langs_count=7&theme=shadow_red&cache_seconds=1800"/>
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=oluizbs&layout=compact&theme=radical"/>
 
 </div>
 
@@ -42,7 +42,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=oluizbs&theme=radical&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=oluizbs&theme=radical&margin-w=10"/>
 </div>
 
 ---
