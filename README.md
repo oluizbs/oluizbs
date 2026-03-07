@@ -1,5 +1,5 @@
 <h1 align="center">
-👋 Olá, eu sou o Gabriel
+👋 Olá, eu sou o Luiz Gabriel
 </h1>
 
 <p align="center">
@@ -20,9 +20,9 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=oluizbs&show_icons=true&theme=shadow_red&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=oluizbs&show_icons=true&theme=shadow_red&include_all_commits=true&count_private=true&cache_seconds=1800"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oluizbs&layout=compact&langs_count=7&theme=shadow_red"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oluizbs&layout=compact&langs_count=7&theme=shadow_red&cache_seconds=1800"/>
 
 </div>
 
@@ -42,8 +42,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=oluizbs&theme=radical&row=1&no-bg=true"/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=oluizbs&theme=radical&no-frame=true&row=1&column=6"/>
 </div>
 
 ---
@@ -56,8 +55,7 @@
 # 👀 Visitantes
 
 <p align="center">
-<img src="https://profile-counter.glitch.me/oluizbs/count.svg"/>
-</p>
+<img src="https://komarev.com/ghpvc/?username=oluizbs&color=red"/></p>
 
 ---
 
